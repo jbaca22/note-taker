@@ -1,4 +1,3 @@
 const router = require("express").Router();
-const store = require("../public/assets/js/capture");
+const capture = require("../../public/assets/js/capture.js");
 
-module.exports = router;
